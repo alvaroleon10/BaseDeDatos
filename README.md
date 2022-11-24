@@ -2,4 +2,5 @@
 
 ### Aquí os mostraré todas las tareas hechas hasta le fecha!!
 
-[EntidadRelacion]:
+[EntidadRelacion]:https://github.com/alvaroleon10/BaseDeDatos/tree/master/BOLETIN%201
+[ModeloRelacional]:
